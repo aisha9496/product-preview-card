@@ -14,7 +14,7 @@ body{
    background-color: #f2ebe3;
 }
 .card{
-    background-color: white;
+    background-color: #ffffff;
     width: 541px;
     height: 411px;
     display: flex;
@@ -83,7 +83,7 @@ body{
 .btn{
    font-family: "Montserrat", sans-serif;
    background-color:#3c8067;
-   color: white;
+   color: #ffffff;
    font-size: 14px;
    border-radius: 10px;
    border: none;
