@@ -26,7 +26,7 @@ body{
     height: 100%;
     background-size: cover;
     background-position: center;
-    background-image: url(product-preview-card/images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
 }
 .card-info{
     padding: 30px;
